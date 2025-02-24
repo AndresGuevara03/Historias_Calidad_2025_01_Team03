@@ -1,1 +1,12 @@
 # Historias_Calidad_2025_01_Team03
+
+# Historia 3
+**Prioridad: Media**
+
+**Cuando:** Un usuario intenta acceder a la plataforma en un horario de alta demanda.
+Dado que: El sistema está en operación normal.
+Yo como: Administrador del sistema.  
+
+**Quiero:**  Que el sistema escale automáticamente para manejar la carga.  
+
+**Y debe suceder:** Que la plataforma pueda soportar al menos 500 usuarios concurrentes sin degradación en el rendimiento y con tiempos de respuesta menores a 3 segundos.
