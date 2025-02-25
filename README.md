@@ -1,6 +1,6 @@
 # Historias_Calidad_2025_01_Team03
 
-##Historia 16 (Seguridad y Control de Accesos)
+## Historia 16 (Seguridad y Control de Accesos)
 
 Prioridad: Alta
 
@@ -14,7 +14,7 @@ Quiero: Que los permisos y roles de usuario estén correctamente implementados.
 
 Y debe suceder: Que el sistema restrinja el acceso y registre intentos fallidos en un log de auditoría.
 
-##Historia 17 (Monitoreo y Mantenimiento)#texto
+## Historia 17 (Monitoreo y Mantenimiento)#texto
 
 Prioridad: Media
 
