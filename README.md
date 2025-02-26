@@ -1,6 +1,6 @@
 # Historias_Calidad_2025_01_Team03
 
-## Historia 21 (Registro y Análisis de Datos)
+## Historia 8 (Registro y Análisis de Datos)
 
 - **Prioridad:** Media
 
