@@ -68,3 +68,16 @@ Quiero: Que el sistema detecte problemas en tiempo real y los notifique automá
 
 Y debe suceder: Que se envíen alertas a los administradores mediante correo electrónico o mensajería instantánea cuando ocurra una falla crítica.git status 
 
+## Historia 8 (Registro y Análisis de Datos)
+
+- **Prioridad:** Media
+
+- **Cuando:** Se necesita evaluar el uso de los recursos educativos en la plataforma.
+
+- **Dado que:** El sistema está en operación normal.
+
+- **Yo como:** Coordinador académico.
+
+- **Quiero:** Que la plataforma genere informes detallados sobre la actividad de los usuarios.
+
+- **Y debe suceder:** Que se pueda acceder a reportes con métricas de uso, tiempos de interacción y tendencias de aprendizaje.
